@@ -1,7 +1,7 @@
 jQuery.noConflict();
 
 jQuery(function() {
-  jQuery("#my_notes").css("color", "seagreen");
+  jQuery("#my_notes").css("color", "green");
 });
 
 // or
