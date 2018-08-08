@@ -6,7 +6,7 @@ jQuery(function() {
 
 // or
 // jQuery(document).ready(function() {
-//   jQuery("h1").css("color", "darkcyan");
+//   jQuery("h1").css("color", "green");
 // });
 
 jQuery(function() {
